@@ -116,9 +116,6 @@ echo "</html>" >> index.html
 sudo service apache2 start
 EOF
 
-
-    sudo service httpd start
-  EOF
   tags = {
     Name = var.ec2_names[count.index]
   }

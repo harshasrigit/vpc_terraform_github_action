@@ -2,7 +2,7 @@
 Link: https://www.youtube.com/watch?v=v4MP7fvLw44
 https://www.notion.so/DevOps-Project-Mastering-VPC-Creation-with-Terraform-GitHub-Actions-Automation-13598ddfef5480d9bd55c16c5fd17661?pvs=4
 
-![Alt text](images/image.png)
+![Alt text](image/image.png)
 
 
 Creating VPC Iaac and github Action as CICD

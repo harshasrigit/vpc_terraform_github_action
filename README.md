@@ -18,25 +18,29 @@ creating a Virtual Private Cloud (VPC) infrastructure using Terraform and then a
        c.  installed aws cli
     
 2. Writing Terraform Code:  VPC infrastructure
+
+       a.  installed git bash 
+       b.  installed terraform to windows 
+       c.  installed aws cli
    
       a.   networks
       b.   subnets
       c.   security groups
 
-3. Initializing and Applying Terraform:
+4. Initializing and Applying Terraform:
    
-4. GitHub Repository Setup:setting up a GitHub repository to store
+5. GitHub Repository Setup:setting up a GitHub repository to store
 
      a.   Terraform code
      b.   README
      c.   .gitignore
      d.   essential files.
    
-5. GitHub Actions Configuration: configure GitHub Actions workflows to automate the deployment of your Terraform code.
+6. GitHub Actions Configuration: configure GitHub Actions workflows to automate the deployment of your Terraform code.
 
     a.   secrets management and workflow triggers on pushing the code to a specific branch.
     
-6. Push to GitHub: See how to push  Terraform code to GitHub repository and trigger the GitHub Actions workflow.
+7. Push to GitHub: See how to push  Terraform code to GitHub repository and trigger the GitHub Actions workflow.
 
-7. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of  VPC infrastructure.
+8. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of  VPC infrastructure.
 

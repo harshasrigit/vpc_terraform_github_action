@@ -1,5 +1,6 @@
 # VPC_Terraform_Github_Action
 Link: https://www.youtube.com/watch?v=v4MP7fvLw44
+https://www.notion.so/DevOps-Project-Mastering-VPC-Creation-with-Terraform-GitHub-Actions-Automation-13598ddfef5480d9bd55c16c5fd17661?pvs=4
 
 
 Creating VPC Iaac and github Action as CICD
@@ -7,7 +8,6 @@ Creating VPC Iaac and github Action as CICD
 creating a Virtual Private Cloud (VPC) infrastructure using Terraform and then automating the deployment of your Terraform code using GitHub Actions.
 Here's what you can expect to learn:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4747ee6c-3123-497e-99c9-479de4354c7a/f77e0991-7ec7-4d45-a26d-ab19169f2a7f/image.png)
 
 1. Setting up Terraform: We'll guide you through the initial setup of Terraform on your local machine, ensuring you have the necessary tools and configurations in place.🛠️
 

@@ -17,19 +17,26 @@ creating a Virtual Private Cloud (VPC) infrastructure using Terraform and then a
        b.  installed terraform to windows 
        c.  installed aws cli
     
-4. Writing Terraform Code:  VPC infrastructure
-     a.   networks
-     b.   subnets
-     c.   security groups
+2. Writing Terraform Code:  VPC infrastructure
+   
+      a.   networks
+      b.   subnets
+      c.   security groups
 
-6. Initializing and Applying Terraform: Learn how to initialize your Terraform project and apply your code to create the VPC in your cloud provider.🌟
+3. Initializing and Applying Terraform:
+   
+4. GitHub Repository Setup:setting up a GitHub repository to store
 
-7. GitHub Repository Setup: We'll guide you through setting up a GitHub repository to store your Terraform code, including creating a README, .gitignore, and other essential files.📂
+     a.   Terraform code
+     b.   README
+     c.   .gitignore
+     d.   essential files.
+   
+5. GitHub Actions Configuration: configure GitHub Actions workflows to automate the deployment of your Terraform code.
 
-8. GitHub Actions Configuration: Discover how to configure GitHub Actions workflows to automate the deployment of your Terraform code. We'll cover secrets management and workflow triggers on pushing the code to a specific branch.⚙️
+    a.   secrets management and workflow triggers on pushing the code to a specific branch.
+    
+6. Push to GitHub: See how to push  Terraform code to GitHub repository and trigger the GitHub Actions workflow.
 
-9. Push to GitHub: See how to push your Terraform code to your GitHub repository and trigger the GitHub Actions workflow.📦
+7. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of  VPC infrastructure.
 
-10. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of your VPC infrastructure.🧐
-
-By the end of this video, you'll have a solid understanding of how to create and manage infrastructure using Terraform and how to automate the deployment process with GitHub Actions. Don't forget to like, subscribe, and hit the bell icon to stay updated with more exciting tutorials and tech content. Let's dive in and empower your infrastructure automation journey!💪📺

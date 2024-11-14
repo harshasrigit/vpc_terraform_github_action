@@ -111,9 +111,12 @@ This structure makes it easy for users to follow along with the setup process. Y
    
 6. GitHub Actions Configuration: configure GitHub Actions workflows to automate the deployment of your Terraform code.
 
+   git push origin main
+
+
     a.   secrets management and workflow triggers on pushing the code to a specific branch.
     
-7. Push to GitHub: See how to push  Terraform code to GitHub repository and trigger the GitHub Actions workflow.
+8. Push to GitHub: See how to push  Terraform code to GitHub repository and trigger the GitHub Actions workflow.
 
-8. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of  VPC infrastructure.
+9. Monitor and Verify: Learn how to monitor the progress of your GitHub Actions workflow and verify the successful deployment of  VPC infrastructure.
 

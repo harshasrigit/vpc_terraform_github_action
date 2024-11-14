@@ -3,9 +3,10 @@ Link: https://www.youtube.com/watch?v=v4MP7fvLw44
 
 
 Creating VPC Iaac and github Action as CICD
-In this tutorial video, we'll walk you through creating a Virtual Private Cloud (VPC) infrastructure using Terraform and then automating the deployment of your Terraform code using GitHub Actions. Whether you're new to infrastructure as code (IAC) or looking to streamline your deployment workflow, this video covers all of it.🚀
 
+creating a Virtual Private Cloud (VPC) infrastructure using Terraform and then automating the deployment of your Terraform code using GitHub Actions.
 Here's what you can expect to learn:
+
 1. Setting up Terraform: We'll guide you through the initial setup of Terraform on your local machine, ensuring you have the necessary tools and configurations in place.🛠️
 
 2. Writing Terraform Code: You'll see how to write Terraform code to define your VPC infrastructure, including networks, subnets, security groups, and more. We'll provide clear explanations and best practices along the way.📝
